@@ -1,8 +1,7 @@
 
 const facultyList = [
     {
-        image: 'https://scontent.fdel1-1.fna.fbcdn.net/v/t31.0-8/20451656_568197123350883_5172117675625138101_o.jpg?_nc_cat=109&ccb=2&_nc_sid=09cbfe&_nc_ohc=4T6NAinHlW4AX9sThEL&_nc_ht=scontent.fdel1-1.fna&oh=afcbc94aed31cf43a9a6fe50557018a7&oe=5FB77603',
-        name: 'Ashwamedh: The Dramatics Society of NSUT',
+        image: 'https://scontent.fdel1-1.fna.fbcdn.net/v/t31.0-8/20451656_568197123350883_5172117675625138101_o.jpg?_nc_cat=109&ccb=2&_nc_sid=09cbfe&_nc_ohc=g64UUDW3crkAX9pWRgQ&_nc_ht=scontent.fdel1-1.fna&oh=bef64de2d875234feca8ae69e92bfda4&oe=5FEED503',
         description: 'ASHWAMEDH-The Dramatics Society of NSUT aims at shedding light upon the issues plaguing our society through street and stage plays with a twist of satire.ASHWAMEDH-The Dramatics Society of NSUT aims at shedding light upon the issues plaguing our society through street and stage plays with a twist of satire.ASHWAMEDH-The Dramatics Society of NSUT aims at shedding light upon the issues plaguing our society through street and stage plays with a twist of satire.'
     }, 
 
